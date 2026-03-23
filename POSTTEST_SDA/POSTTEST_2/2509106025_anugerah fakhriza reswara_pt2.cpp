@@ -3,7 +3,7 @@ Nama: Anugerah Fakhriza Reswara
 NIM: 2509106025
 Kelas: Informatika A2'25
 Praktikum: Struktur Data
-Posttest: 1
+Posttest: 2
 */
 
 #include <iostream>
